@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Youtube Clone**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranavShinde11](https://github.com/PranavShinde11)
+- 👨‍💻 All of my projects are available at [https://github.com/PranavShinde11](https://github.com/PranavShinde17)
 
 - 📝 I regularly write articles on [.](.)
 
